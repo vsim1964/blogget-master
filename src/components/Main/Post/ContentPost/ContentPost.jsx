@@ -9,8 +9,7 @@ const ContentPost = ({postData}) => {
       <Text
         As='h2'
         size={18}
-        tsize={24}
-        className={style.title}>
+        tsize={24}>
         <Text As="a"
           className={style.linkPost}
           href='#post'>
